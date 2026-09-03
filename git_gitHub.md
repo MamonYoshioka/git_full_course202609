@@ -1,6 +1,7 @@
 # Git/GitHubの学習
 
 ## 学習経緯
+
 ちょっとバージョン管理から離れていたので、復習のために実施
 
 ## 内容
@@ -9,5 +10,12 @@
 - ssh接続の基本
 - 基本コマンド整理
 
+
+
+## シークレット情報をあげてしまったら
+
+基本的にシークレットの情報をあげてしまうと、履歴に残ってしまい、抹消することはできない。なので、シークレットな情報は、慎重に取り扱うこと
+
 ### 参照記事/参照動画
-https://youtu.be/V7WAxif7yT4?si=mQ3wsgYT13cpyFKY
+
+[https://youtu.be/V7WAxif7yT4?si=mQ3wsgYT13cpyFKY](https://youtu.be/V7WAxif7yT4?si=mQ3wsgYT13cpyFKY)
